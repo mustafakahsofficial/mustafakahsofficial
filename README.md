@@ -1,5 +1,44 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mustafakahs
 ===================================================================================================================================
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .my-circle {
+      fill: red;
+      animation: pulse 1s infinite;
+    }
+    @keyframes pulse {
+      0% {
+        r: 40;
+      }
+      50% {
+        r: 60;
+      }
+      100% {
+        r: 40;
+      }
+    }
+    .my-text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      fill: blue;
+      animation: fadeIn 2s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+  
+  <circle class="my-circle" cx="100" cy="100" r="40" />
+  <text class="my-text" x="50%" y="50%" text-anchor="middle" alignment-baseline="middle">
+    Merhaba SVG!
+  </text>
+</svg>
+
 
 Full-stack Developer
 --------------------
