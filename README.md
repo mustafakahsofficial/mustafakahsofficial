@@ -40,8 +40,8 @@
 #  **🌐 Socials:**
 
 
-<a href="https://www.linkedin.com/in/mehmet-mustafa-%C3%B6zbay-546361224/"><img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn" /></a>
-<a href="https://x.com/mustafakahscode"><img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" /></a>
+<a href="https://www.linkedin.com/in/mehmet-mustafa-%C3%B6zbay-546361224/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://x.com/mustafakahscode" target="_blank"><img align="left" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" /></a>
 
 
 
