@@ -10,7 +10,7 @@
 	<div align="center">
 	<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
 	<picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5pZTVlZGtnbGNiOWt5MXRwbW1rY2c3NnQ2cXZueWltdHB3a2ZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7j2hfyeVcDtf2/giphy.gif" width = 100px></picture>
-	<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 180px></picture>
+	<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 120px></picture>
 	Socials:
 	 <a href="mailto:mustafakahsofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
  	 <a href="www.linkedin.com/in/mehmet-mustafa-özbay-546361224"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
