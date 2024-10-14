@@ -13,7 +13,7 @@
 	<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 120px></picture>
 	Socials:
 	 <a href="mailto:mustafakahsofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
- 	 <a href="https://www.linkedin.com/in/mehmet-mustafa-%C3%B6zbay-546361224/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ 	 <a href="https://www.linkedin.com/in/mustafakahs"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   	 <a href="https://www.instagram.com/mustafakahs/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 	 <a href="https://x.com/mustafakahscode"><img src="https://img.icons8.com/?size=50&id=ZNMifeqJbPRv&format=png&color=000000" /></a>
 	 <a href="mailto:mustafamehmet@windowslive.com"><img src="https://img.icons8.com/?size=55&id=OumT4lIcOllS&format=png&color=000000" /></a>
