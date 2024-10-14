@@ -16,6 +16,7 @@
  	 <a href="www.linkedin.com/in/mehmet-mustafa-özbay-546361224"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   	 <a href="https://www.instagram.com/mustafakahs/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 	 <a href="https://x.com/mustafakahscode"><img src="https://img.icons8.com/?size=50&id=ZNMifeqJbPRv&format=png&color=000000" /></a>
+	 <a href="mailto:mustafamehmet@windowslive.com"><img src="https://img.icons8.com/?size=55&id=OumT4lIcOllS&format=png&color=000000" /></a>
 	</div>
 </h1>
   <picture> <img align="right"  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250p></picture>
